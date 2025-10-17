@@ -19,6 +19,44 @@ I'm a second-year Information Technology student at **MITS Gwalior** with a stro
 
 ---
 
+### 🚀 My Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Blogs App</h3>
+      <p>A full-stack blog application where users can sign up, create, edit, and delete their own posts. Features secure user authentication using JSON Web Tokens (JWT) to protect routes and manage sessions.</p>
+      <p>
+        <strong>Tech Stack:</strong>
+      </p>
+      <p>
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+          <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+          <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="JWT"/>
+      </p>
+      <div>
+        <a href="https://blogs-app-shahidx05.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+        </a>
+        <a href="https://github.com/shahidx05/blogs-app" target="_blank">
+          <img src="https://img.shields.io/badge/View%20Code-333?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+        </a>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://blogs-app-shahidx05.vercel.app/" target="_blank">
+        <img src="https://github.com/shahidx05/blogs-app/blob/main/frontend%20MPA/images/home.png?raw=true" alt="Blogs App Screenshot"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### 🛠 Languages & Tools
 
 <p align="center">
