@@ -130,9 +130,26 @@ I'm a second-year Information Technology student at **MITS Gwalior** with a stro
         <img src="https://img.shields.io/badge/View%20Code-333?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
       </a>
     </div>
-  </td>
-  <td width="50%" valign="top">
     </td>
+   <td width="50%" valign="top">
+    <h3>UltraEdit UI Clone (Frontend)</h3>
+     <a href="https://ultaraa-edt-ui-clone.vercel.app/" target="_blank">
+       <img src="https://github.com/shahidx05/UltaraaEdt-Clone/blob/main/images/demo.png?raw=true" alt="UltraEdit Clone Screenshot" width="100%"/>
+    </a>
+    <p>A static, responsive front-end clone of the UltraEdit Download Page, focusing on pure HTML and CSS.</p>
+    <p>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    </p>
+    <div>
+      <a href="https://ultaraa-edt-ui-clone.vercel.app/" target="_blank">
+        <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+      </a>
+      <a href="https://github.com/shahidx05/UltaraaEdt-Clone" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Code-333?style=for-the-badge&logo=github&logoColor=white" alt="View Code"/>
+      </a>
+    </div>
+  </td>
 </tr>
 </table>
 
@@ -152,7 +169,7 @@ I'm a second-year Information Technology student at **MITS Gwalior** with a stro
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https.www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
 </p>
 
 <p align="center">
@@ -185,13 +202,13 @@ I'm a second-year Information Technology student at **MITS Gwalior** with a stro
 
 ### 📊 My GitHub Stats
 
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahidx05&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-    <br/><br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=shahidx05&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-    <br/><br/>
-    <img src="httpsallgithub-readme-streak-stats.herokuapp.com/?user=shahidx05&theme=tokyonight" alt="GitHub Streak" />
-    <br/><br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=shahidx05&theme=dracula&column=7" alt="GitHub Trophies" />
-  </p>
+  <br/>
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahidx05&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+    <br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=shahidx05&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+    <br/><br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahidx05&theme=tokyonight" alt="GitHub Streak" />
+    <!-- <br/><br/>
+    <img src="https://github-profile-trophy.vercel.app/?username=shahidx05&theme=dracula&column=7" alt="GitHub Trophies" /> -->
+  </p>
