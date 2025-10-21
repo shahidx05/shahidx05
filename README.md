@@ -133,10 +133,13 @@ I'm a second-year Information Technology student at **MITS Gwalior** with a stro
     </td>
    <td width="50%" valign="top">
     <h3>UltraEdit UI Clone (Frontend)</h3>
+     <br/><br/>
      <a href="https://ultaraa-edt-ui-clone.vercel.app/" target="_blank">
-       <img src="https://github.com/shahidx05/UltaraaEdt-Clone/blob/main/images/demo.png?raw=true" alt="UltraEdit Clone Screenshot" width="100%"/>
-    </a>
+       <img src="https://github.com/shahidx05/UltaraaEdt-Clone/blob/main/images/demo2.png?raw=true" alt="UltraEdit Clone Screenshot" width="100%"/>
+     </a>
+     <br/><br/>
     <p>A static, responsive front-end clone of the UltraEdit Download Page, focusing on pure HTML and CSS.</p>
+     <br/><br/>
     <p>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
