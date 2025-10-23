@@ -26,7 +26,7 @@ I'm a second-year Information Technology student at **MITS Gwalior** with a stro
   <td width="50%" valign="top">
     <h3>Blogs App (Full Stack)</h3>
     <a href="https://blogs-app-shahidx05.vercel.app/" target="_blank">
-      <img src="https://github.com/shahidx05/blogs-app/blob/main/frontend%20MPA/images/home.png?raw=true" alt="Blogs App Screenshot" width="100%"/>
+      <img src="https://github.com/shahidx05/blogs-app/blob/main/frontend-MPA/images/home.png?raw=true" alt="Blogs App Screenshot" width="100%"/>
     </a>
     <p>A full-stack app where users can sign up, create, edit, and delete posts. Features secure auth using JWT.</p>
     <p>
