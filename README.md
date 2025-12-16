@@ -200,16 +200,16 @@ I'm a second-year Information Technology student at **MITS Gwalior** with a stro
 </p>
 
 ---
-<!--
+
 ### 📊 My GitHub Stats
 
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahidx05&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
-    <br/><br/>
-    <img src="https://github-readme-stats.vercel.app/api?username=shahidx05&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-    <br/><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahidx05&theme=tokyonight" alt="GitHub Streak" />
-     <br/><br/>
-    <img src="https://github-profile-trophy.vercel.app/?username=shahidx05&theme=dracula&column=7" alt="GitHub Trophies" /> -->
-  </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahidx05&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shahidx05&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahidx05&theme=tokyonight" alt="GitHub Streak" />
+  <br/><br/>
+  <!-- <img src="https://github-profile-trophy.vercel.app/?username=shahidx05&theme=dracula&column=7" alt="GitHub Trophies" /> -->
+</p>
+
