@@ -201,6 +201,13 @@ I'm a second-year Information Technology student at **MITS Gwalior** with a stro
 
 ---
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 ### 📊 My GitHub Stats
 
 <p align="center">
