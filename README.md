@@ -215,7 +215,7 @@ I'm a second-year Information Technology student at **MITS Gwalior** with a stro
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=shahidx05&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahidx05&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=shahidx05&theme=transparent&hide_border=false" alt="GitHub Streak" />
   <br/><br/>
   <!-- <img src="https://github-profile-trophy.vercel.app/?username=shahidx05&theme=dracula&column=7" alt="GitHub Trophies" /> -->
 </p>
