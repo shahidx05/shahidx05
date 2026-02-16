@@ -201,6 +201,11 @@ I'm a second-year Information Technology student at **MITS Gwalior** with a stro
 
 ---
 
+# 🏆 LeetCode Stats:
+![Leetcode Stats](https://leetcard.jacoblin.cool/shahidx_05?theme=dark)
+
+---
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
