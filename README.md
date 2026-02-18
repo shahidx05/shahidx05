@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shahid Khan</h1>
-<h3 align="center">>💻 Second-year IT student at MITS Gwalior | Passionate about DSA & Web Development | Building Projects</h3>
+<!-- <h3 align="center">>💻 Second-year IT student at MITS Gwalior | Passionate about DSA & Web Development | Building Projects</h3> -->
+
+<!-- <h3 align="center">A Passionate Developer from India</h3> -->
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Second-year+IT+Student+at+MITS;MERN+Stack+Developer;Competitive+Programmer;Open+Source+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
 
 <!-- <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3h0NHM4Nmc1Mmc3bjV2b2lqOXN0ZWZka3JmdHpxMXp2bW10eTVjaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkASztds2/giphy.gif" width="600" alt="Coding Banner"/>
@@ -203,6 +211,7 @@ I'm a second-year Information Technology student at **MITS Gwalior** with a stro
 
 # 🏆 LeetCode Stats:
 ![Leetcode Stats](https://leetcard.jacoblin.cool/shahidx_05?theme=dark)
+
 
 ---
 
