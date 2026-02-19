@@ -198,20 +198,27 @@ I'm a second-year Information Technology student at **MITS Gwalior** with a stro
   <a href="httpsWhattwitter.com/shahidx_05" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
 </p>
 
-### 🏆 My Coding Profiles
-
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.leetcode.com/shahidx_05" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shahidx_05" height="40" width="50" /></a>
   <a href="https://auth.geeksforgeeks.org/user/shahidx_05" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shahidx_05" height="40" width="50" /></a>
   <a href="httpshttps://codeforces.com/profile/shahidx_05" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="shahidx_05" height="40" width="50" /></a>
   <a href="https://www.codechef.com/users/shahidx_05" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="shahidx_05" height="40" width="50" /></a>
-</p>
+</p> -->
 
----
+### 🏆 Coding Profiles
 
-# 🏆 LeetCode Stats:
-![Leetcode Stats](https://leetcard.jacoblin.cool/shahidx_05?theme=dark)
+<div align="center">
+  <a href="https://www.leetcode.com/shahidx_05" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"></a>
+  <a href="https://codeforces.com/profile/shahidx_05" target="_blank"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=Codeforces&logoColor=white" target="_blank"></a>
+  <a href="https://www.codechef.com/users/shahidx_05" target="_blank"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" target="_blank"></a>
+  <a href="https://auth.geeksforgeeks.org/user/shahidx_05" target="_blank"><img src="https://img.shields.io/badge/-GeeksforGeeks-298D46?style=for-the-badge&logo=GeeksforGeeks&logoColor=white" target="_blank"></a>
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/shahidx_05?theme=dark&font=Inter" alt="LeetCode Stats" />
+</div>
 
 ---
 
