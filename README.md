@@ -117,7 +117,7 @@ I'm a second-year Information Technology student at **MITS Gwalior** with a stro
     </div>
   </td>
 </tr>
-<tr>
+<!-- <tr>
    <td width="50%" valign="top">
     <h3>Netflix UI Clone (Frontend)</h3>
      <a href="https://watchly-ui-clone-x05.vercel.app/" target="_blank">
@@ -159,7 +159,7 @@ I'm a second-year Information Technology student at **MITS Gwalior** with a stro
       </a>
     </div>
   </td>
-</tr>
+</tr> -->
 </table>
 
 ---
