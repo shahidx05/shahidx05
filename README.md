@@ -22,6 +22,7 @@ I'm a second-year Information Technology student at **MITS Gwalior** with a stro
 - 🌱 I’m currently focused on mastering the **MERN stack** and sharpening my problem-solving skills in **Data Structures & Algorithms**.
 - 🚀 I’m building projects that solve real-world problems and contribute to my learning journey.
 - 📫 You can reach me at: **shahidjoura307@gmail.com**
+- ⚡ **Fun fact:** I love optimizing code almost as much as I love writing it.
 <!--  I’m looking to collaborate on innovative open-source projects related to web development.-->
 ---
 
