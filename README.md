@@ -19,6 +19,7 @@
 
 I'm a second-year Information Technology student at **MITS Gwalior** with a strong foundation in competitive programming and a growing passion for full-stack web development. I thrive on solving complex problems and turning ideas into practical, user-friendly applications.
 
+- 🏆 **Competitive Programming:** Proud **LeetCode Knight** (Max Rating: 1933). I recently hit a 365+ day DSA streak and have solved over **2000+ problems** combined across LeetCode, Codeforces, Codechef and GeeksforGeeks using **C++**.
 - 🌱 I’m currently focused on mastering the **MERN stack** and sharpening my problem-solving skills in **Data Structures & Algorithms**.
 - 🚀 I’m building projects that solve real-world problems and contribute to my learning journey.
 - 📫 You can reach me at: **shahidjoura307@gmail.com**
@@ -206,7 +207,7 @@ I'm a second-year Information Technology student at **MITS Gwalior** with a stro
 
 <p align="center">
   <a href="https://linkedin.com/in/shahidx05" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="httpsWhattwitter.com/shahidx_05" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"></a>
+ <a href="https://x.com/shahidx_05" target="_blank"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"></a>
 </p>
 
 <!-- <p align="center">
