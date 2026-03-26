@@ -19,7 +19,7 @@
 
 I'm a second-year Information Technology student at **MITS Gwalior** with a strong foundation in competitive programming and a growing passion for full-stack web development. I thrive on solving complex problems and turning ideas into practical, user-friendly applications.
 
-- 🏆 **Competitive Programming:** Proud **LeetCode Knight** (Max Rating: 2006) with 800+ Problems. and have solved over **2000+ problems** combined across LeetCode, Codeforces, Codechef and GeeksforGeeks using **C++**.
+- 🏆 **Competitive Programming:** **LeetCode Knight (Max Rating: 2006)** with **800+ problems** solved on LeetCode and **2000+ problems** across platforms like Codeforces, CodeChef, and GeeksforGeeks using **C++**.
 - 🌱 I’m currently focused on mastering the **MERN stack** and sharpening my problem-solving skills in **Data Structures & Algorithms**.
 - 🚀 I’m building projects that solve real-world problems and contribute to my learning journey.
 - 📫 You can reach me at: **shahidjoura307@gmail.com**
