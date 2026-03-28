@@ -27,6 +27,17 @@ I'm a second-year Information Technology student at **MITS Gwalior** with a stro
 <!--  I’m looking to collaborate on innovative open-source projects related to web development.-->
 ---
 
+### 🧠 Problem Solving & DSA
+
+- 🏆 **LeetCode:** **Knight** (Max Rating: 2006) | 🔥 **380+ Days** Streak | 🧩 **800+** Problems
+- ⭐ **CodeChef:** **3-Star** (Rating: 1610)
+- 💻 **GeeksforGeeks:** **900+** Problems | 📜 160 Days of DSA Certified
+- 📊 **Codeforces:** Regular Contest Participant
+- 💪 **Total Impact:** **2000+** problems solved across all platforms using **C++**.
+- ⚡ **Core Strengths:** Dynamic Programming, Graphs, Trees, and Bit Manipulation.
+
+---
+
 ### 🚀 My Projects
 
 <table width="100%" border="0" cellspacing="10" cellpadding="10">
