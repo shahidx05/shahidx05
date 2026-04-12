@@ -29,12 +29,12 @@ I'm a second-year Information Technology student at **MITS Gwalior** with a stro
 
 ### 🧠 Problem Solving & DSA
 
-- 🏆 **LeetCode:** **Knight** (Max Rating: 2027) | 🔥 **400+ Days** Streak | 🧩 **835+** Problems
+- 🏆 **LeetCode:** **Knight** (Max Rating: 2027) | 🔥 **400+ Days** Streak | 🧩 **850+** Problems
 - ⭐ **CodeChef:** **3-Star** (Rating: 1610)
 - 💻 **GeeksforGeeks:** **900+** Problems | 📜 160 Days of DSA Certified
-- 📊 **Codeforces:** Regular Contest Participant
+- 📊 **Codeforces:** ***300+** Problems
 - 💪 **Total Impact:** **2000+** problems solved across all platforms using **C++**.
-- ⚡ **Core Strengths:** Dynamic Programming, Graphs, Trees, and Bit Manipulation.
+<!-- - ⚡ **Core Strengths:** Dynamic Programming, Graphs, Trees, and Bit Manipulation.-->
 
 ---
 
