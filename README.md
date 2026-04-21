@@ -19,7 +19,7 @@
 
 I'm a second-year Information Technology student at **MITS Gwalior** with a strong foundation in competitive programming and a growing passion for full-stack web development. I thrive on solving complex problems and turning ideas into practical, user-friendly applications.
 
-- 🏆 **Competitive Programming:** **LeetCode Knight (Max Rating: 2027)** with **800+ problems** solved on LeetCode and **2000+ problems** across platforms like Codeforces, CodeChef, and GeeksforGeeks using **C++**.
+- 🏆 **Competitive Programming:** **LeetCode Knight (Max Rating: 2080)** with **800+ problems** solved on LeetCode and **2000+ problems** across platforms like Codeforces, CodeChef, and GeeksforGeeks using **C++**.
 - 🌱 I’m currently focused on mastering the **MERN stack** and sharpening my problem-solving skills in **Data Structures & Algorithms**.
 - 🚀 I’m building projects that solve real-world problems and contribute to my learning journey.
 - 📫 You can reach me at: **shahidjoura307@gmail.com**
@@ -29,8 +29,8 @@ I'm a second-year Information Technology student at **MITS Gwalior** with a stro
 
 ### 🧠 Problem Solving & DSA
 
-- 🏆 **LeetCode:** **Knight** (Max Rating: 2027) | 🔥 **400+ Days** Streak | 🧩 **850+** Problems
-- ⭐ **CodeChef:** **3-Star** (Rating: 1610)
+- 🏆 **LeetCode:** **Knight** (Max Rating: 2080) | 🔥 **400+ Days** Streak | 🧩 **850+** Problems
+- ⭐ **CodeChef:** **3-Star** (Rating: 1620)
 - 💻 **GeeksforGeeks:** **900+** Problems | 📜 160 Days of DSA Certified
 - 📊 **Codeforces:** ***300+** Problems
 - 💪 **Total Impact:** **2000+** problems solved across all platforms using **C++**.
@@ -38,7 +38,7 @@ I'm a second-year Information Technology student at **MITS Gwalior** with a stro
 
 ---
 
-### 🚀 My Projects
+<!-- ### 🚀 My Projects
 
 <table width="100%" border="0" cellspacing="10" cellpadding="10">
 <tr>
@@ -130,7 +130,7 @@ I'm a second-year Information Technology student at **MITS Gwalior** with a stro
     </div>
   </td>
 </tr>
-<!-- <tr>
+<tr>
    <td width="50%" valign="top">
     <h3>Netflix UI Clone (Frontend)</h3>
      <a href="https://watchly-ui-clone-x05.vercel.app/" target="_blank">
@@ -172,45 +172,47 @@ I'm a second-year Information Technology student at **MITS Gwalior** with a stro
       </a>
     </div>
   </td>
-</tr> -->
+</tr> 
 </table>
 
 ---
+-->
+### 🛠 Languages & Tools  
 
-### 🛠 Languages & Tools
+<div align="center">
 
-<p align="center">
-  <strong>Languages:</strong><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-</p>
+<strong>Languages:</strong><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
 
-<p align="center">
-  <strong>Frontend:</strong><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" width="40" height="40"/>
-</p>
+<br><br>
 
-<p align="center">
-  <strong>Backend & Databases:</strong><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-</p>
+<strong>Frontend:</strong><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
 
-<p align="center">
-  <strong>Tools & Version Control:</strong><br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-</p>
+<br><br>
+
+<strong>Backend & Databases:</strong><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+
+<br><br>
+
+<strong>Tools & Version Control:</strong><br><br>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+
+</div>
 
 ---
 
