@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Second-year+IT+Student+at+MITS;MERN+Stack+Developer;Competitive+Programmer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Second-year+IT+Student+at+MITS;Full+Stack+Developer;Competitive+Programmer" alt="Typing SVG" />
   </a>
 </div>
 
@@ -19,7 +19,7 @@
 
 I'm a second-year Information Technology student at **MITS Gwalior** with a strong foundation in competitive programming and a growing passion for full-stack web development. I thrive on solving complex problems and turning ideas into practical, user-friendly applications.
 
-- 🏆 **Competitive Programming:** **LeetCode Knight (Max Rating: 2080)** with **800+ problems** solved on LeetCode and **2000+ problems** across platforms like Codeforces, CodeChef, and GeeksforGeeks using **C++**.
+- 🏆 **Competitive Programming:** **LeetCode Knight (Max Rating: 2080)** with **850+ problems** solved on LeetCode and **2000+ problems** across platforms like Codeforces, CodeChef, and GeeksforGeeks using **C++**.
 - 🌱 I’m currently focused on mastering the **MERN stack** and sharpening my problem-solving skills in **Data Structures & Algorithms**.
 - 🚀 I’m building projects that solve real-world problems and contribute to my learning journey.
 - 📫 You can reach me at: **shahidjoura307@gmail.com**
