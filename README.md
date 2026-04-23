@@ -3,10 +3,19 @@
 
 <!-- <h3 align="center">A Passionate Developer from India</h3> -->
 
+</div>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Second-year+IT+Student+at+MITS;Full+Stack+Developer;Competitive+Programmer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=500&lines=LeetCode+Knight+%7C+Max+Rating+2080;850%2B+Problems+%7C+400%2B+Day+Streak;MERN+Stack+Developer;Building+Things+That+Matter" alt="Typing SVG" />
   </a>
+</div>
+<br/>
+<div align="center">
+  <img src="https://img.shields.io/badge/LeetCode_Knight-FFA116?style=flat-square&logo=leetcode&logoColor=black&labelColor=FFA116" />
+  <img src="https://img.shields.io/badge/Rating-2080-FF6B35?style=flat-square" />
+  <img src="https://img.shields.io/badge/Streak-400%2B_Days-E63946?style=flat-square" />
+  <img src="https://img.shields.io/badge/Problems-2000%2B_Solved-06D6A0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Stack-MERN-61DAFB?style=flat-square&logo=react&logoColor=black" />
 </div>
 
 <!-- <p align="center">
